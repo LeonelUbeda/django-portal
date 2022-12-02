@@ -77,6 +77,8 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "portal.users",
+    "portal.exams",
+    "portal.appointments"
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
